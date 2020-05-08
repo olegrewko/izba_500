@@ -156,6 +156,7 @@ body {
 /* *************************************** */
 
 
+
 /* ********************************************************** */
 .yellow {
   color: #f9ce00;
@@ -525,11 +526,11 @@ p {
   background-color: #263846;
 }
 .social {
-  /*  background:#F9CE00;*/
-  background: #ffaf00;
-
-  padding-top: 0.2rem;
-  padding-bottom: 0.1rem;
+    background:#263846;
+    /* border-top: 1px solid #636e74; */
+    border-bottom: 1px solid #636e74;
+  padding-top: 0.3rem;
+  padding-bottom: 0.4rem;
   color: #636e74;
   font-weight: 300;
   font-size: 1rem;
